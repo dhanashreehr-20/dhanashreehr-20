@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a Bioinformatics, Statistics and computer science student.<br>I’m currently learning Bioinformatics tools and technique, Statistics for data analysis, Programming (Python / R)<br>I combine biology, statistics, and coding to solve real-world problems
+Hey! I'm Dhanashree, a third-year BSc student specializing in Bioinformatics, Statistics, and Computer Science at REVA University, Bengaluru.
+I'm passionate about exploring biological data, uncovering patterns through statistical analysis, and building solutions with code.
+
+I enjoy turning what I learn into practical projects and exploring how technology can help solve problems in biology and beyond.
 
 
 ## 🌐 Socials:
